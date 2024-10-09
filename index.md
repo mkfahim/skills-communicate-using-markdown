@@ -28,4 +28,10 @@ module example_and_gate
 endmodule
 ```
 
+# Adding a list (Remember, a task list starts with the syntax - [ ] and then the task list item. The formatting is specific!)
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
